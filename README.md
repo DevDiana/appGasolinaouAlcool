@@ -1,3 +1,5 @@
+![logo](https://user-images.githubusercontent.com/63608845/90585783-10297b80-e1ac-11ea-8b5e-a1d955fcf00c.png)
+
 # Projeto App Gasolina ou Álcool
 ### Desenvolvido com:
 * Ionic
